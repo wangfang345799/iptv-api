@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-16 07:06:13,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
+2026-04-16 19:27:46,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
 
 📺央视频道,#genre#
 CCTV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
@@ -7,18 +7,20 @@ CCTV-2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 CCTV-3,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
 CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 CCTV-6,http://154.37.212.176/ysp.php?pid=600108442&id=2013693901
+CCTV-6,http://125.43.241.91:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7,http://107.150.60.122/live/cctv7hd.m3u8
 CCTV-8,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 CCTV-9,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd
+CCTV-9,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=610336372a24c72f456be162b0a21d5d
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-12,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd
-CCTV-14,http://107.150.60.122/live/cctv14hd.m3u8
+CCTV-12,http://125.43.241.91:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
-CCTV-14,http://1.197.204.20:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://107.150.60.122/live/cctv14hd.m3u8
 CCTV-15,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
-CCTV-16,http://107.150.60.122/live/cctv16hd.m3u8
 CCTV-16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
-CCTV-16,http://1.197.204.20:85/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-16,http://107.150.60.122/live/cctv16hd.m3u8
+CCTV-16,http://173.208.223.226:82/live/cctv16md.m3u8?jsbt=1772069348&jsbk=71ccb68cbde431d790236c8c40a056e3
 CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 CETV-1,http://154.37.212.176/ysp.php?pid=600171827&id=2022823801
 
@@ -31,16 +33,15 @@ CETV-1,http://154.37.212.176/ysp.php?pid=600171827&id=2022823801
 北京卫视,http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 黑龙江卫视,http://154.37.212.176/ysp.php?pid=600002498&id=2029797003
-黑龙江卫视,http://125.43.241.91:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://1.197.204.20:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视,http://125.43.241.91:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://125.43.241.91:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
-宁夏卫视,http://1.197.204.20:85/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,http://1.197.204.20:85/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://1.197.204.20:85/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://1.197.204.20:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://125.43.241.91:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+三沙卫视,https://iptv.catvod.com/live.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86&line=2
 新疆卫视,http://154.37.212.176/ysp.php?pid=600152138&id=2019927403
 新疆卫视,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
 
 ☘️广东频道,#genre#
+广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
 
 ☘️浙江频道,#genre#
 浙江钱江都市,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
@@ -60,8 +61,6 @@ CETV-1,http://154.37.212.176/ysp.php?pid=600171827&id=2022823801
 北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
 
 ☘️上海频道,#genre#
-全纪实,http://139.196.151.191/rtp/239.45.3.135:5140
-全纪实,http://183.220.107.138:4022/rtp/239.10.0.105:5140
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 
@@ -81,12 +80,13 @@ CETV-1,http://154.37.212.176/ysp.php?pid=600171827&id=2022823801
 宜兴紫砂,http://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 常熟民生,rtmp://cstvplay.21cs.cn/cstv2/cstv2
 武进新闻,https://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-武进生活,https://live.wjyanghu.com/live/CH2.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 武进生活,http://live.wjyanghu.com/live/CH2.m3u8
+武进生活,https://live.wjyanghu.com/live/CH2.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 泗阳综合,http://3739115337.cloudvdn.com/a.m3u8?domain=siyang-tv-hls.cm.jstv.com&player=nwEAAKHdjSKP_58X&secondToken=secondToken%3A5FUijZmDyNMxtCDdne0YzSAwjuw&streamid=siyang-tv%3Asiyang-tv%2Fsiyangzh&v3=1
 涟水综合,rtmp://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw
 苏州4k,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 赣榆新闻综合,rtmp://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv
+连云港新闻综合,https://iptv.catvod.com/live.php?id=%E8%BF%9E%E4%BA%91%E6%B8%AF%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&line=1
 镇江二套社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8?wsSession=a263bdc5a26cd01b57a80359-170493712215358&amp;wsIPSercert=f56bd6194d219a5172dbed60eca6e9b0
 
@@ -162,9 +162,11 @@ CETV-1,http://154.37.212.176/ysp.php?pid=600171827&id=2022823801
 嘉峪关综合,rtsp://221.7.61.147/PLTV/88888910/224/3221225607/10000100000000060000000000789667_0.smil
 嘉峪关综合,rtsp://116.176.26.19/PLTV/88888910/224/3221225607/10000100000000060000000000789667_0.smil
 嘉峪关综合,rtsp://60.13.39.18/PLTV/88888910/224/3221225607/10000100000000060000000000789667_0.smil
-天祝综合,https://play.kankanlive.com/live/1656487214793905.m3u8
 平凉新闻综合,http://play.kankanlive.com/live/1720583434627241.m3u8
 永昌综合,http://play.kankanlive.com/live/1720408280309109.m3u8
+甘南综合,https://play.kankanlive.com/live/1711955176432990.m3u8
+白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8
+白银综合,https://play.kankanlive.com/live/1720408089419110.m3u8
 秦安综合,rtmp://play.kankanlive.com/live/1680577080200944
 秦安综合,http://play.kankanlive.com/live/1683944827526991.m3u8
 西峰综合,https://play.kankanlive.com/live/1683944827526991.m3u8
